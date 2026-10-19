@@ -1,0 +1,4 @@
+# Optional documentation tooling, not scraper runtime dependencies.
+Markdown==3.11.1
+playwright==1.64.0
+pypdf==6.21.1

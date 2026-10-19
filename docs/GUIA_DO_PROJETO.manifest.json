@@ -1,0 +1,17 @@
+{
+  "edition": "v1.0.0",
+  "pages": 22,
+  "inputs": {
+    "docs/GUIA_DO_PROJETO.md": "8a7d950ce96078eea91ddd0bb0b9b7fcace25d0f6b0afbce3dfd8a66e42074ef",
+    "main.py": "ab44dcd359299173bb14a0626f730c572d70a26acb5dafc0b4cadcf9ebaf73a9",
+    "functions/scraping.py": "06fcffc3d59821e38ac58d549f2201496a7ed54419a24866fce29bacde23b991",
+    "functions/greetings.py": "bca39ba5fa93ff99a4fc7fc8ffb3ebfedf091b3a456b5719b137767292548e45",
+    "requirements.txt": "4d2689bb3a64145b18e2c677e257389e78b80debbec3f7bd4d6711dfaa21920a",
+    "requirements-docs.txt": "7946e7bb58446df51374c2e2598a6805eae3fbc98f166f51c2618190296c24ee",
+    "scripts/build_guide_pdf.py": "d3f682633c72ed34560421542ed300d53551220358010c3e64d8b2faa145a1e8"
+  },
+  "pdf": {
+    "path": "docs/GUIA_DO_PROJETO.pdf",
+    "sha256": "3de5db37bef17da55a04e56ee944584c3ac34c4ad288f226e800865dacd99480"
+  }
+}
